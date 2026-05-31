@@ -1,0 +1,6 @@
+{
+  "name": "Bac PC Maroc",
+  "description": "أقوى تطبيق تفاعلي لدروس وتحديات الباكالوريا علوم فيزيائية بالفرنسية والشرح بالعربية للتحضير للامتحان الوطني بتميز.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
